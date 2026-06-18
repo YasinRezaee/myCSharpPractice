@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="DateTimeVariables7/DateTimeVariables7.csproj" Id="0ff40310-fdb5-438f-9ad3-6873ce9f5fd6" />
+  <Project Path="DecimalVariables/DecimalVariables.csproj" Id="c0386776-ef5d-48a6-b83d-6c621ca37c0e" />
+  <Project Path="DoubbleVariables/DoubbleVariables4.csproj" Id="d523ba49-5f6b-41ec-9b69-c4aee7695954" />
+  <Project Path="HelloWorld-1/MyFirstProject1.csproj" />
+  <Project Path="HomeWorkOne6/HomeWorkOne6.csproj" Id="60530704-7eef-4d50-b4ea-ddf35c40b003" />
+  <Project Path="MySecondProject/MySecondProject2.csproj" Id="7ce35e04-d80b-44a8-9b63-48d93d26ca50" />
+  <Project Path="StringVariablesApp/StringIntVariablesApp3.csproj" Id="535cdf6b-99f0-4a58-8aee-58526e846c8c" />
+</Solution>

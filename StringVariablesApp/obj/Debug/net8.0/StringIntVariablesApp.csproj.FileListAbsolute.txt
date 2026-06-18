@@ -1,0 +1,14 @@
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\bin\Debug\net8.0\StringIntVariablesApp.exe
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\bin\Debug\net8.0\StringIntVariablesApp.deps.json
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\bin\Debug\net8.0\StringIntVariablesApp.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\bin\Debug\net8.0\StringIntVariablesApp.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\bin\Debug\net8.0\StringIntVariablesApp.pdb
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\refint\StringIntVariablesApp.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.pdb
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\StringIntVariablesApp.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\StringVariablesApp\obj\Debug\net8.0\ref\StringIntVariablesApp.dll

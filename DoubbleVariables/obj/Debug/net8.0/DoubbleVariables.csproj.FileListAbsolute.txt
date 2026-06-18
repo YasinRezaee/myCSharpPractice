@@ -1,0 +1,14 @@
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\bin\Debug\net8.0\DoubbleVariables.exe
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\bin\Debug\net8.0\DoubbleVariables.deps.json
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\bin\Debug\net8.0\DoubbleVariables.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\bin\Debug\net8.0\DoubbleVariables.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\bin\Debug\net8.0\DoubbleVariables.pdb
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\refint\DoubbleVariables.dll
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.pdb
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\DoubbleVariables.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\MyC#Projects\DoubbleVariables\obj\Debug\net8.0\ref\DoubbleVariables.dll
