@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoubbleVariables4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d31e05da94565961e232c2ecda926ce6163a07a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoubbleVariables4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoubbleVariables4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
