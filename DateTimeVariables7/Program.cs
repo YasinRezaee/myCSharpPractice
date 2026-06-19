@@ -24,13 +24,41 @@ Console.WriteLine(today.ToString("MMM dd hh"));//3 M prints abb month :Jun
 Console.WriteLine(today.ToString("MMMM dd, yyyy hh:mm tt zzz"));// June 18, 2026 06:02 PM +03:30
 DateTime newDay = DateTime.UtcNow;
 Console.WriteLine(newDay); // 6 / 18 / 2026 2:38:31 PM
-Console.WriteLine("****************session 2************************");
+Console.WriteLine("****************session 2*****DateOnly*******************");
 DateOnly myBirthDay = DateOnly.Parse("6/11/1987");
 Console.WriteLine(myBirthDay.ToString("MM/dd/yy"));// 06/11/87
 Console.WriteLine(myBirthDay.ToString("M/d/y"));// 6/11/87
 Console.WriteLine(myBirthDay.ToString("MMMM/dd/yy"));// June/11/87
 Console.WriteLine(myBirthDay.ToString("MMMM/dd/yyyy"));// June/11/1987
 Console.WriteLine(myBirthDay.ToString("MMMM/dddd/yyyy"));// June/Thursday/1987
- 
 
-Console.ReadKey(); 
+//'''''''''''''''''''''''''''
+DateTime myDate = DateTime.Now;
+Console.WriteLine($"today full format {myDate}"); //today full format 6/19/2026 2:22:13 PM
+Console.WriteLine($"today just date {myDate.Date}"); //today just date 6/19/2026 12:00:00 AM
+Console.WriteLine("****************session 3 **** TimeOnly ********************");
+TimeOnly classTime = TimeOnly.Parse("8:00 AM"); //"8:00 AM"
+Console.WriteLine(classTime);
+TimeOnly rightNow = TimeOnly.FromDateTime(DateTime.Now);
+TimeOnly AfterNow = TimeOnly.FromTimeSpan(TimeSpan.Zero);
+Console.WriteLine(rightNow);//2:44 PM
+Console.WriteLine(AfterNow);//12:00 AM
+Console.WriteLine("****************session 4 **** Type Conversions********************");
+// converting from one variable to another
+//most common is to convert string to something else.
+//Console.WriteLine("what is your age?");
+string ? ageText = Console.ReadLine();
+Console.WriteLine(ageText + 15);//if i want to calculate age in next 15 years , in this way the result will be treated as string => 28 + 15 = 2815 
+//which will be totally wrong. to get the correct answer :
+ int? age = int.Parse(ageText);
+Console.WriteLine(age + 15); // now the result will be correct 
+//but what if the user types "Fourty three" ? we get error
+//how to handle??  
+Console.WriteLine("what is your age?");
+string? adedAge = Console.ReadLine();
+bool isAgeValid = int.TryParse(adedAge, out int ages);
+Console.WriteLine($"this value is valid {isAgeValid}. this value was {ages}");
+Console.WriteLine(ages);
+//to convert from values to another: 
+double testDouble = (double)age; // you can cast to another type like this.
+Console.ReadKey();   
