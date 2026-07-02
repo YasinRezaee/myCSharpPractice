@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Arrays12/Arrays12.csproj" Id="a5137987-0396-4e23-bff4-f7086f8f9d91" />
   <Project Path="Conditionals/Conditionals9.csproj" Id="2678f249-8cc5-4882-bf27-86943e0221e3" />
   <Project Path="DateTimeVariables7/DateTimeVariables7.csproj" Id="0ff40310-fdb5-438f-9ad3-6873ce9f5fd6" />
   <Project Path="DoubbleVariables/DoubbleVariables4.csproj" Id="d523ba49-5f6b-41ec-9b69-c4aee7695954" />
@@ -6,6 +7,7 @@
   <Project Path="HelloWorld-1/MyFirstProject1.csproj" />
   <Project Path="HomeWorkOne6/HomeWorkOne6.csproj" Id="60530704-7eef-4d50-b4ea-ddf35c40b003" />
   <Project Path="HomWorkDateTime8/HomWorkDateTime8.csproj" Id="1da58520-864f-48c8-a354-1858567ecf05" />
+  <Project Path="LoopHomeWork13/LoopHomeWork13.csproj" Id="298497ab-e99b-42ef-8d8f-c01f3bb297bb" />
   <Project Path="Loops10/LoopsAndSets11.csproj" Id="6abd419a-19d6-493f-b5de-260f9db33365" />
   <Project Path="MiniProjecrOne9/MiniProjecrOne10.csproj" Id="5fd8cac2-5914-48b4-8559-a53fcdac20bd" />
   <Project Path="MySecondProject/MySecondProject2.csproj" Id="7ce35e04-d80b-44a8-9b63-48d93d26ca50" />

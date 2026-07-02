@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoWhileLoopHomeWork11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02fa70ef16af87ebcdc519f8cabbee45b29fad3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca96f06b553d63f7ff3a42877d19a570810910fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoWhileLoopHomeWork11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoWhileLoopHomeWork11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
