@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomWorkDateTime8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10a3d5cd43bdcfc23e4ce29741094e0709846bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02fa70ef16af87ebcdc519f8cabbee45b29fad3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomWorkDateTime8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomWorkDateTime8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
