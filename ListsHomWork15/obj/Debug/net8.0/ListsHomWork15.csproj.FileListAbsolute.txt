@@ -1,0 +1,15 @@
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\bin\Debug\net8.0\ListsHomWork15.exe
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\bin\Debug\net8.0\ListsHomWork15.deps.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\bin\Debug\net8.0\ListsHomWork15.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\bin\Debug\net8.0\ListsHomWork15.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\bin\Debug\net8.0\ListsHomWork15.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.sourcelink.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\refint\ListsHomWork15.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ListsHomWork15.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ListsHomWork15\obj\Debug\net8.0\ref\ListsHomWork15.dll
