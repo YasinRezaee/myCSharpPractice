@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListsHomWork15")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dcd94ae39977f8065c590992da2f3630057385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a19fdb0bc6870fa588ddde1aae816ebc18f77c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListsHomWork15")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListsHomWork15")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
