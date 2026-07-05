@@ -1,0 +1,15 @@
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\bin\Debug\net8.0\ForEachLoop19.exe
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\bin\Debug\net8.0\ForEachLoop19.deps.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\bin\Debug\net8.0\ForEachLoop19.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\bin\Debug\net8.0\ForEachLoop19.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\bin\Debug\net8.0\ForEachLoop19.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.sourcelink.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\refint\ForEachLoop19.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ForEachLoop19.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForEachLoop19\obj\Debug\net8.0\ref\ForEachLoop19.dll

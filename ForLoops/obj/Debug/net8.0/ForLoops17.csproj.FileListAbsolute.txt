@@ -1,0 +1,15 @@
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\bin\Debug\net8.0\ForLoops17.exe
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\bin\Debug\net8.0\ForLoops17.deps.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\bin\Debug\net8.0\ForLoops17.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\bin\Debug\net8.0\ForLoops17.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\bin\Debug\net8.0\ForLoops17.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.sourcelink.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\refint\ForLoops17.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ForLoops17.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\ForLoops\obj\Debug\net8.0\ref\ForLoops17.dll
