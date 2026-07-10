@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopHomeWork13")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c41c848c1cdf6663952b8abf8dd7e5eb64baac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccff5af5a4ad520b35651ace200a6f796e29ea6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopHomeWork13")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopHomeWork13")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodsHomeWork21/1.0.0": {
+        "runtime": {
+          "MethodsHomeWork21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsHomeWork21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
