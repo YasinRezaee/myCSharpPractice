@@ -1,0 +1,15 @@
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\bin\Debug\net8.0\MiniProjectTwo22.exe
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\bin\Debug\net8.0\MiniProjectTwo22.deps.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\bin\Debug\net8.0\MiniProjectTwo22.runtimeconfig.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\bin\Debug\net8.0\MiniProjectTwo22.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\bin\Debug\net8.0\MiniProjectTwo22.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.GeneratedMSBuildEditorConfig.editorconfig
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.AssemblyInfoInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.AssemblyInfo.cs
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.csproj.CoreCompileInputs.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.sourcelink.json
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\refint\MiniProjectTwo22.dll
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.pdb
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\MiniProjectTwo22.genruntimeconfig.cache
+D:\tim corey .net\ProjectsC#\myCSharpPractice\MiniProjectTwo22\obj\Debug\net8.0\ref\MiniProjectTwo22.dll
